@@ -11,6 +11,7 @@ namespace GitTutorialVS.Controllers
         // GET: teste2
         public ActionResult Index()
         {
+            //olao teste 2
             return View();
         }
     }
